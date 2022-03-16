@@ -8,3 +8,11 @@ fields:
     required: false
   label: label
   description: text field test
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: test blocks
