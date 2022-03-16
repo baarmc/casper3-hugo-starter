@@ -31,7 +31,7 @@ weight = 40
 [params]
 description = "Brigada autonoma"
 facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
+github = "https://github.com/baarmc"
 logo = "/images/bull-head-flame-illustration-260nw-324172274.webp"
 mainSections = ["post"]
 twitter = "https://twitter.com"
