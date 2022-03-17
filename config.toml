@@ -9,26 +9,6 @@ paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "BAARMC"
 [[menu.main]]
-identifier = "Relatorio"
-name = "Relatorio"
-url = ""
-weight = nil
-[[menu.main]]
-identifier = "Apresentação"
-name = "Apresentação"
-url = ""
-weight = nil
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
-[[menu.main]]
-identifier = "image-credit"
-name = "Image Credit"
-url = "/image-credit/"
-weight = 20
-[[menu.main]]
 identifier = "github-repo-theme"
 name = "Get Theme on Github"
 url = "https://github.com/jonathanjanssens/hugo-casper3"
