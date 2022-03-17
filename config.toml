@@ -12,12 +12,12 @@ title = "BAARMC"
 identifier = "github-repo-theme"
 name = "Get Theme on Github"
 url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 30
+weight = 6
 [[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://jonathanjanssens.com"
-weight = 40
+identifier = "about"
+name = "Apresentação"
+url = "/about/"
+weight = 2
 [params]
 description = "Brigada autonoma"
 facebook = "https://facebook.com"
