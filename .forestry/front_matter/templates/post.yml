@@ -24,4 +24,6 @@ fields:
   name: feature_image
   label: feature_image
 pages:
+- content/post/hotspots.html
 - content/post/iframe.html
+- content/post/risco-de-fogo.html
