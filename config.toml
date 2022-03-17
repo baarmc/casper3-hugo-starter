@@ -19,10 +19,10 @@ name = "Author Homepage"
 url = "https://jonathanjanssens.com"
 weight = 40
 [params]
-description = "Brigada autonoma"
+description = "Brigada Ambiental Autônoma da Região Metropolitada de Campinas"
 facebook = "https://facebook.com"
 github = "https://github.com/baarmc"
-logo = "/images/bull-head-flame-illustration-260nw-324172274.webp"
+logo = "/images/firms_2021-07-02_2021-08-01-57-2-19-0-4z.jpg"
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
