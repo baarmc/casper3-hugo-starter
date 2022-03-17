@@ -20,11 +20,11 @@ url = "https://jonathanjanssens.com"
 weight = 40
 [params]
 description = "Brigada Ambiental Autônoma da RMC"
-facebook = "https://facebook.com"
+facebook = "https://www.facebook.com/Baarmc-104247212224750"
 github = "https://github.com/baarmc"
 logo = ""
 mainSections = ["post"]
-twitter = "https://twitter.com"
+twitter = "https://twitter.com/brigadarmc"
 [privacy.instagram]
 disabled = false
 simple = true
