@@ -9,25 +9,15 @@ paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "BAARMC"
 [[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://jonathanjanssens.com"
-weight = 4
-[[menu.main]]
 identifier = "github-repo-theme"
 name = "Get Theme on Github"
 url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 3
-[[menu.main]]
-identifier = "image-credit"
-name = "Image Credit"
-url = "/image-credit/"
-weight = 2
+weight = 6
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "Apresentação"
 url = "/about/"
-weight = 1
+weight = 2
 [params]
 description = "Brigada autonoma"
 facebook = "https://facebook.com"

@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 [menu.main]
 name = "Home"
-weight = 5
+weight = 1
 
 +++
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
