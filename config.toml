@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 author = "brigada"
 baseURL = "https://gohugo.io/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © BAARMC (CC BY-NC-SA 4.0)"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
@@ -12,12 +12,12 @@ title = "BAARMC"
 identifier = "github-repo-theme"
 name = "Get Theme on Github"
 url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 6
+weight = 30
 [[menu.main]]
-identifier = "about"
-name = "Apresentação"
-url = "/about/"
-weight = 2
+identifier = "author"
+name = "Author Homepage"
+url = "https://jonathanjanssens.com"
+weight = 40
 [params]
 description = "Brigada autonoma"
 facebook = "https://facebook.com"
