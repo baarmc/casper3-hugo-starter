@@ -15,7 +15,7 @@ description = "Brigada Ambiental Autônoma da RMC"
 facebook = "https://www.facebook.com/Baarmc-104247212224750"
 github = "https://github.com/baarmc"
 logo = ""
-mainSections = ["post"]
+mainSections = ["test", "post"]
 twitter = "https://twitter.com/brigadarmc"
 [privacy.instagram]
 disabled = false
