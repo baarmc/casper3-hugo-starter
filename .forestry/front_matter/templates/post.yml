@@ -25,3 +25,4 @@ fields:
   label: feature_image
 pages:
 - content/post/arcgis.md
+- content/post/iframe.html
