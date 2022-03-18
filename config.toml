@@ -9,6 +9,12 @@ paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "BAARMC"
 [[menu.main]]
+name = "Contato"
+weight = 7
+[[menu.main]]
+name = "Crowdfunding"
+weight = 6
+[[menu.main]]
 identifier = "about"
 name = "Apresentação"
 url = "/about/"
