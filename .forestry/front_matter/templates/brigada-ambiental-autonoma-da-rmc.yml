@@ -16,3 +16,5 @@ fields:
     min: 
     max: 
   description: test blocks
+pages:
+- content/contato.html
