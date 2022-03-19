@@ -12,7 +12,7 @@ title = "BAARMC"
 name = "Contato"
 weight = 7
 [[menu.main]]
-name = "Crowdfunding"
+name = "Campanha"
 weight = 6
 [[menu.main]]
 identifier = "about"
