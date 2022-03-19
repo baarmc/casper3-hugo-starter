@@ -11,14 +11,6 @@ title = "BAARMC"
 [[menu.main]]
 name = "Contato"
 weight = 7
-[[menu.main]]
-name = "Campanha"
-weight = 6
-[[menu.main]]
-identifier = "about"
-name = "Apresentação"
-url = "/about/"
-weight = 2
 [params]
 description = "Brigada Ambiental Autônoma da RMC"
 facebook = "https://www.facebook.com/Baarmc-104247212224750"
