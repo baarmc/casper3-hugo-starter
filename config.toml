@@ -8,9 +8,6 @@ languageCode = "en"
 paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "BAARMC"
-[[menu.main]]
-name = "Contato"
-weight = 7
 [params]
 description = "Brigada Ambiental Autônoma da RMC"
 facebook = "https://www.facebook.com/Baarmc-104247212224750"
