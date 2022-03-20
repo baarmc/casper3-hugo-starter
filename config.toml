@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "BAARMC"
-baseURL = "https://baarmc.com.br"
+baseURL = "http://baarmc.com.br"
 copyright = "Copyright © BAARMC (CC BY-NC-SA 4.0)"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
@@ -8,6 +8,8 @@ languageCode = "en"
 paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "BAARMC"
+[menu]
+main = []
 [params]
 description = "Brigada Ambiental Autônoma da RMC"
 facebook = "https://www.facebook.com/Baarmc-104247212224750"
