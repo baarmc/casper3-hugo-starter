@@ -18,7 +18,7 @@ logo = ""
 mainSections = ["test", "post"]
 twitter = "https://twitter.com/brigadarmc"
 [privacy.instagram]
-disabled = false
+disabled = true
 simple = true
 [privacy.twitter]
 disabled = false
