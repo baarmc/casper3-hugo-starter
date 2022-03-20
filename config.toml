@@ -31,7 +31,7 @@ simple = true
 disabled = false
 privacyEnhanced = true
 [services.instagram]
-disableInlineCSS = true
+disableInlineCSS = false
 [services.twitter]
 disableInlineCSS = true
 [taxonomies]
