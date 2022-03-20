@@ -33,7 +33,7 @@ privacyEnhanced = true
 [services.instagram]
 disableInlineCSS = true
 [services.twitter]
-disableInlineCSS = false
+disableInlineCSS = true
 [taxonomies]
 category = "categories"
 series = "series"
