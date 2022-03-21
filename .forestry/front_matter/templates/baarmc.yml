@@ -7,4 +7,5 @@ fields:
   label: author
 pages:
 - content/apresentacao.html
+- content/bitcoin.html
 - content/campanha.html
