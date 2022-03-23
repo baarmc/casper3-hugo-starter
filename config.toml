@@ -15,7 +15,7 @@ description = "Brigada Autônoma Ambiental  da RMC"
 facebook = "https://www.facebook.com/Baarmc-104247212224750"
 github = "https://github.com/baarmc/casper3-hugo-starter"
 logo = "/images/logo.png"
-mainSections = ["test", "post"]
+mainSections = ["post", "test"]
 twitter = "https://twitter.com/brigadarmc"
 [privacy.instagram]
 disabled = true
