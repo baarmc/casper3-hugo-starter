@@ -23,6 +23,13 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - content/post/hotspots.html
 - content/post/iframe.html
