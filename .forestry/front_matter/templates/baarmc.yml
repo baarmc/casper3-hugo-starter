@@ -6,6 +6,7 @@ fields:
   name: author
   label: author
 pages:
+- content/Cosmopolis.html
 - content/apresentacao.html
 - content/bitcoin.html
 - content/campanha.html
