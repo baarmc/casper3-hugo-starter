@@ -31,6 +31,7 @@ fields:
     min: 
     max: 
 pages:
+- content/carta-de-principios.html
 - content/post/hotspots.html
 - content/post/iframe.html
 - content/post/risco-de-fogo.html
