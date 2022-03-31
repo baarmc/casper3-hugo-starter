@@ -32,6 +32,7 @@ fields:
     max: 
 pages:
 - content/carta-de-principios.html
+- content/en.html
 - content/orcamento.html
 - content/post/hotspots.html
 - content/post/iframe.html
